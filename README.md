@@ -3,6 +3,7 @@
 Interactive Conway’s Game of Life simulator built with Python and Pygame, featuring adjustable speed, wrapping modes, and a polished UI.
 
 <img src="Assets/screenshot.png" alt="Conway's Game of Life screenshot" width="900">
+
 ## Features
 
 - **Start / Pause** simulation
