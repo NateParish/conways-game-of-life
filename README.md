@@ -55,20 +55,6 @@ python main.py
 
 ---
 
-## Project Structure
-
-conways-game-of-life/
-│
-├── main.py          # Application entry point & UI loop
-├── creatures.py     # Game of Life cell logic & simulation rules
-├── gameboard.py     # UI components (buttons, slider, panel, grid)
-├── vars.py          # Layout configuration, colors, fonts
-├── Assets/
-│   └── screenshot.png
-└── README.md
-
----
-
 ## Implementation Notes
 
 - Implements standard Conway’s Game of Life rules.
@@ -91,6 +77,7 @@ Conway’s Game of Life is a zero-player cellular automaton devised by mathemati
 ## Author
 
 Nate Parish
+
 GitHub: https://github.com/NateParish
 
 ---
